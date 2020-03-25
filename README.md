@@ -1,8 +1,6 @@
 # test-cypress
 
 **Set up**
-
-Project
     
     - Git clone
     - If node is not installed then Run npm install
