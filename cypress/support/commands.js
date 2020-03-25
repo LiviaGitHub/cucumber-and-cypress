@@ -30,4 +30,6 @@
 //    cy.viewport('ipad-mini')
 //    cy.viewport('1980, 1080')
 //
-//
+// -- Get text and check if the text is included -- 
+//    cy.get('locator').should('include', 'text');
+// 
