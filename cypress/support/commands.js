@@ -21,15 +21,5 @@
 // Cypress.Commands.add("dismiss", { prevSubject: 'optional'}, (subject, options) => { ... })
 //
 //
-// -- This is will overwrite an existing command --
+// -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
-//
-// -- How testing on mobile device emulators -- 
-//    Before cy.visit() add the device or size. 
-//    cy.viewport('iphone-x')
-//    cy.viewport('ipad-mini')
-//    cy.viewport('1980, 1080')
-//
-// -- Get text and check if the text is included -- 
-//    cy.get('locator').should('include', 'text');
-// 
