@@ -23,3 +23,9 @@
 //
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
+//
+// -- install xpath --
+//   run: npm install cypress-xpath
+//   add in index.js file: require('cypress-xpath')
+//
+//

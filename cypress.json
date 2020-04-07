@@ -1,6 +1,10 @@
 {
+    "baseUrl": "https://www.google.com/",
+    "watchForFileChanges": false,
     "video": false,
     "defaultCommandTimeout": 5000,
     "pageLoadTimeout": 10000,
-    "ignoreTestFiles": ["*.js", "*.md"]
+    "ignoreTestFiles": ["*.js", "*.md"],
+    "viewportWidth": 1024,
+    "viewportHeight": 768
 }
