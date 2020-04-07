@@ -27,5 +27,5 @@
 // -- install xpath --
 //   run: npm install cypress-xpath
 //   add in index.js file: require('cypress-xpath')
-//
+//   Example: cy.xpath('...').click()
 //
